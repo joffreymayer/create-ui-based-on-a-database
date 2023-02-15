@@ -1,4 +1,4 @@
-# Email Scraping
+# Creating a UI to visualize a Database
 
 The goal of this repository, will be to:
 
